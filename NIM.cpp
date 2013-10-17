@@ -32,6 +32,7 @@ int hrugufjoldi;
 int main( )
 {
 cout << "KristinnJ13" << endl;
+cout << "Fuck this shit, Steinara13" << endl;
 	int val;
 	do
 	{
