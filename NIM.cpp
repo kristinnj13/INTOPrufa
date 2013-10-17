@@ -33,6 +33,7 @@ int main( )
 {
 cout << "KristinnJ13" << endl;
 cout << "Fuck this shit, Steinara13" << endl;
+cout << "happy happy joy hreinnr13" << endl;
 	int val;
 	do
 	{
